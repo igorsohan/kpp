@@ -5,4 +5,8 @@
 - карти інтенсивності дозволяють представити інформацію про поширення землетрусів, червоним кольором виділені зони з високою активністю землетрусів
 - іконка погоди відображає погоду в реальному часі, та при наведенні на неї.
 syntax, type some text into the left window and watch the results in the right.
-![](https://github.com/igorsohan/kpp/blob/master/lab_1/IMG.PNG =600x320)
+![](https://github.com/igorsohan/kpp/blob/master/lab_1/IMG.PNG)
+
+![alt text][logo]
+
+[logo]:(https://github.com/igorsohan/kpp/blob/master/lab_1/IMG.PNG)
